@@ -109,6 +109,7 @@ button{
   background-color: #3882f6;
   border-radius: 5px;
   border: 0%;
+  padding: 10px 10px;
 
 }
 
@@ -139,6 +140,10 @@ aside .name{
   text-align: right;
   color: black;
   font-weight: bold;
+}
+
+.footer {
+  text-align: center;
 }
  
 
